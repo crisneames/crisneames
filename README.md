@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=crisneames&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img src="https://img.icons8.com/fluency/48/000000/mac-os.png"/>
+<a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Pixel perfect - Flaticon</a>
