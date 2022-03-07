@@ -1,4 +1,16 @@
-# Hi there, I'm Cristi 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align ="center">
+  <a href="https://www.linkedin.com/in/crisneames">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <br />
+     <img src="https://komarev.com/ghpvc/?username=crisneames&style=flat-square&color=blue" alt="Profile Views"/>
+  </a>
+  </div>
+ 
+
+<h1 align="center"> Hi there, I'm Cristi 👋 </h1>
 
 #### I am highly motivated and naturally curious with a keen interest in growing my career as a Software Engineer and learning new technologies.
 
@@ -11,12 +23,13 @@
 -
 Here are some ideas to get you started:
 -->
----
+<br />
 
 
 
 
-- 🔭 I’m currently working on my portfolio
+
+- 🔭 I’m currently working on frentend development using ReactJS, TypeScript, and Node
 - 🌱 I’m currently learning React with TypeScript and everything coding
 - 👯 I’m looking to collaborate with others on web projects
 - 🥅 2022 Goals: Contribute to an Open Source Project
@@ -24,7 +37,9 @@ Here are some ideas to get you started:
 
 ---
 
-### Connect with me:<!--LinkedIn-->&nbsp;&nbsp;<a href="https://www.linkedin.com/in/crisneames/" target="__blank"><img align="center" src="https://user-images.githubusercontent.com/5223593/156932560-19ad10dc-2492-409e-9bbf-1cb408cf11de.png" height="25" /></a>&nbsp;&nbsp; <a href="mailto:crisneames@gmail.com" target="__blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" height="25" /></a>
+<!-- 
+### Connect with me:&nbsp;&nbsp;<a href="https://www.linkedin.com/in/crisneames/" target="__blank"><img align="center" src="https://user-images.githubusercontent.com/5223593/156932560-19ad10dc-2492-409e-9bbf-1cb408cf11de.png" height="25" /></a>&nbsp;&nbsp; <a href="mailto:crisneames@gmail.com" target="__blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" height="25" /></a> 
+-->
 
 
 <!--
@@ -34,11 +49,10 @@ icons are from https://icons8.com/icon/set/resume-icon/fluency
 -->
 
 <br />
-<br />
-<br />
 
----
-### Languages and Tools: <br />
+
+
+### :hammer_and_wrench: Languages and Tools: <br />
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="50" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/css3.png" height="50" /></a>
