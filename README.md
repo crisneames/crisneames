@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:
 -->
-
+<br />
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning React with TypeScript and everything coding
 - 👯 I’m looking to collaborate with others on web projects
