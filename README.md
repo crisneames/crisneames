@@ -1,6 +1,6 @@
 # Hi there, I'm Cristi 👋
 
-#### I am highly motivated and naturally curious with a keen interest in growing my career as a Software Engineer while learning new technologies.
+#### I am highly motivated and naturally curious with a keen interest in growing my career as a Software Engineer and learning new technologies.
 
 <!--
 **crisneames/crisneames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/crisneames#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/crisneames#gh-dark-mode-only)
+<a href="https://linkedin.com/in/crisneames#gh-light-mode-only" target="blank"><img align="center" src="./img/linkedin-light.svg" height="25" /></a>
+
 &nbsp;&nbsp;
 
 <!--LinkedIn-->
