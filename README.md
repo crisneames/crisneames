@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on frentend development using ReactJS, TypeScript, and Node
-- 🌱 I’m currently learning React with TypeScript and everything coding
+- 🔭 I’m currently working on frontend development using React, TypeScript, and Node
+- 🌱 I’m currently learning more about React with TypeScript and everything coding
 - 👯 I’m looking to collaborate with others on web projects
 - 🥅 2022 Goals: Contribute to an Open Source Project
 - ⚡ Fun fact: I love dogs and photography
