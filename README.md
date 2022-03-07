@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-### Connect with me:<!--LinkedIn-->&nbsp;&nbsp;<a href="https://www.linkedin.com/in/crisneames/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/5223593/156932560-19ad10dc-2492-409e-9bbf-1cb408cf11de.png" height="25" /></a>&nbsp;&nbsp; <a href="mailto:crisneames@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" height="25" /></a>
+### Connect with me:<!--LinkedIn-->&nbsp;&nbsp;<a href="https://www.linkedin.com/in/crisneames/" target="__blank"><img align="center" src="https://user-images.githubusercontent.com/5223593/156932560-19ad10dc-2492-409e-9bbf-1cb408cf11de.png" height="25" /></a>&nbsp;&nbsp; <a href="mailto:crisneames@gmail.com" target="__blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" height="25" /></a>
 
 
 <!--
