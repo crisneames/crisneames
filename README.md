@@ -22,13 +22,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/crisneames#gh-light-mode-only" target="blank"><img align="center" src="./img/linkedin-light.svg" height="25" /></a>
-
-&nbsp;&nbsp;
-
 <!--LinkedIn-->
 
-<a href="https://www.linkedin.com/in/crisneames/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5223593/156932560-19ad10dc-2492-409e-9bbf-1cb408cf11de.png" height="25" /></a> <a href="mailto:crisneames@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" height="25" /></a>
+<a href="https://www.linkedin.com/in/crisneames/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5223593/156932560-19ad10dc-2492-409e-9bbf-1cb408cf11de.png" height="25" /></a>&nbsp;&nbsp; <a href="mailto:crisneames@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" height="25" /></a>
 
 <!--
 base URL for icons
@@ -36,7 +32,8 @@ base URL for icons
 icons are from https://icons8.com/icon/set/resume-icon/fluency
 -->
 
-Lnguages and Tools <br />
+### Languages and Tools <br />
+
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="50" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/css3.png" height="50" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5223593/156932346-6595a643-76d0-453a-a30b-ae2735df77f1.png" height="40" /></a>
